@@ -1,14 +1,10 @@
-🌟****CodSoftWithCloud
+# CodSoftWithCloud
 
 
 
-🚀 Overview
+# Overview
 
 CodSoftWithCloud is a modern cloud-based project integrating cutting-edge technologies to deliver scalability, security, and performance. This project leverages cloud services for hosting, storage, and seamless user experience.
-
-🎯 Features
-
-✅ Cloud-Powered – Utilizes cloud platforms for hosting and storage.✅ Scalable Architecture – Designed to handle high loads efficiently.✅ Robust Security – Implements JWT authentication and role-based access.✅ User-Friendly Interface – Built with a sleek and responsive design.✅ API Documentation – Fully documented with Swagger/OpenAPI.
 
 🛠️ Tech Stack
 

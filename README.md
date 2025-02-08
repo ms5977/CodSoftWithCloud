@@ -23,28 +23,12 @@ https://codesoftwithcloud.netlify.app/
 
 # Clone the repository
 git clone https://github.com/ms5977/CodSoftWithCloud.git
-cd CodSoftWithCloud/backend
-
-# Configure database settings in application.properties
-
-# Build and run the application
-mvn spring-boot:run
-
-Frontend Setup
-
-cd CodSoftWithCloud/frontend
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm start
-
-🎮 Usage
-
-1️⃣ Open http://localhost:3000 in your browser.2️⃣ Register/Login to access features.3️⃣ Utilize the cloud-integrated functionalities.
-
-📌 API Documentation: Check http://localhost:8080/swagger-ui.html for detailed API reference.
 
 🤝 Contribution
 
@@ -54,9 +38,6 @@ We welcome contributions! Follow these steps:📌 Fork the repository.📌 Creat
 
 📄 This project is licensed under the MIT License.
 
-📞 Contact
-
-For inquiries, feel free to reach out via GitHub issues or email at 📩 your-email@example.com.
 
 🔥 Happy Coding! 🎉
 

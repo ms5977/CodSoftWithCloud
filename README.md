@@ -1,4 +1,4 @@
-🌟 CodSoftWithCloud
+🌟****CodSoftWithCloud
 
 
 
@@ -12,29 +12,18 @@ CodSoftWithCloud is a modern cloud-based project integrating cutting-edge techno
 
 🛠️ Tech Stack
 
-Frontend
+# Frontend
 
-🖥️ React.js, Tailwind CSS
-
-Backend
-
-🔧 Spring Boot, Spring Security, JWT Authentication
-
-Database
-
-🗄️ PostgreSQL / MySQL
-
-Cloud Services
-
-☁️ AWS (EC2, S3, RDS) / Firebase
+🖥️ React.js, Bootstarp
 
 ⚡ Installation & Setup
 
-Prerequisites
+# Prerequisites
 
 🔹 Node.js & npm installed🔹 Java 17+ installed🔹 PostgreSQL / MySQL database setup
 
-Backend Setup
+# host Link
+https://codesoftwithcloud.netlify.app/
 
 # Clone the repository
 git clone https://github.com/ms5977/CodSoftWithCloud.git

@@ -1,0 +1,97 @@
+.footer {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.companyInfo h5,
+.links h5,
+.contactInfo h5 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #2980b9;
+}
+
+.companyInfo p,
+.links ul,
+.contactInfo p {
+  font-size: 1rem;
+  color: #bdc3c7;
+}
+
+.links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.links ul li {
+  margin-bottom: 10px;
+}
+
+.links ul li a {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+.links ul li a:hover {
+  text-decoration: underline;
+}
+
+.emailInput {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #bdc3c7;
+}
+
+.subscribeBtn {
+  padding: 10px 20px;
+  background-color: #2980b9;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribeBtn:hover {
+  background-color: #3498db;
+}
+
+@media (max-width: 768px) {
+  .companyInfo,
+  .links,
+  .contactInfo {
+    text-align: center;
+  }
+
+  .companyInfo h5,
+  .links h5,
+  .contactInfo h5 {
+    font-size: 1rem;
+  }
+
+  .emailInput {
+    width: 90%;
+  }
+}
+
+.emailLink {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+.emailLink:hover {
+  text-decoration: underline;
+}
+
+.navLink {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,52 @@
+.contactHeader {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.contactHeader h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+}
+
+.contactHeader p {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+.contactFormContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.contactFormContainer form {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .contactHeader h1 {
+    font-size: 2rem;
+  }
+
+  .contactHeader p {
+    font-size: 1rem;
+  }
+
+  .contactFormContainer form {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .contactHeader h1 {
+    font-size: 1.5rem;
+  }
+
+  .contactFormContainer form {
+    padding: 10px;
+  }
+}

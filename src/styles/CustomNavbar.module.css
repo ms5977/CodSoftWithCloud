@@ -1,0 +1,12 @@
+.NavBackground {
+  background-color: rgba(68, 69, 151, 0.849);
+  backdrop-filter: blur(10px);
+  padding: 1rem 0;
+}
+
+.navContent {
+  color: azure;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
